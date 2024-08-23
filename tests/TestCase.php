@@ -2,9 +2,9 @@
 
 namespace IbrahimBougaoua\Filawidget\Tests;
 
+use IbrahimBougaoua\Filawidget\FilawidgetServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use IbrahimBougaoua\Filawidget\FilawidgetServiceProvider;
 
 class TestCase extends Orchestra
 {

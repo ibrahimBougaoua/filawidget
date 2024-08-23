@@ -2,9 +2,9 @@
 
 namespace IbrahimBougaoua\Filawidget;
 
+use IbrahimBougaoua\Filawidget\Commands\FilawidgetCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use IbrahimBougaoua\Filawidget\Commands\FilawidgetCommand;
 
 class FilawidgetServiceProvider extends PackageServiceProvider
 {
